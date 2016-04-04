@@ -1,0 +1,15 @@
+OBJECT_SHARED Models/Airport/ils.xml -68.280556 -54.841639 -0.01 94.78
+OBJECT_SHARED Models/Communications/vordme_1.xml -68.284167 -54.838056 0 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -68.280556 -54.841639 -0.01 180
+OBJECT_SHARED Models/Airport/localizer.xml -68.319667 -54.84425 17.4 356.09
+OBJECT_SHARED Models/Airport/Vehicle/chariot.xml -68.3113694 -54.8397991 28.27 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-GPU.xml -68.3130107 -54.8398366 27.48 0
+OBJECT_SHARED Models/Transport/hummerh2.xml -68.3043043 -54.8397638 50.7 304
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -68.312384 -54.8397948 27.8 349
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -68.3120357 -54.8397836 27.97 12.3
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -68.3129619 -54.839802 27.51 177.7
+OBJECT_SHARED Models/Airport/LamppostGeneric_18m.xml -68.3127003 -54.8397339 27.66 0
+OBJECT_SHARED Models/Airport/LamppostGeneric_18m.xml -68.3122176 -54.8397203 27.9 0
+OBJECT_SHARED Models/Airport/LamppostGeneric_18m.xml -68.3117361 -54.8397087 28.13 0
+OBJECT_STATIC sawh-torre.ac -68.3043888 -54.839861 49.83 38.3
+OBJECT_STATIC sawh-term.ac -68.312227 -54.839578 27.92 92.9
